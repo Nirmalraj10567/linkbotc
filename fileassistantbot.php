@@ -9,7 +9,7 @@
  * By TheDarkW3b
  * https://t.me/TheDarkW3b
  */
-define('FILES_PATH', __DIR__.'/files');
+define('FILES_PATH', 'https://dubts.000webhostapp.com/');
 define('WEBSERVER_BASE_URL', 'filestolinkbots.herokuapp.com');
 define('FILES_EXPIRE_TIME', 24 * 3600); // in seconds
 
