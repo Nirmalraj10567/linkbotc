@@ -11,7 +11,7 @@
  */
 define('FILES_PATH', __DIR__.'/files');
 define('WEBSERVER_BASE_URL', 'filestolinkbots.herokuapp.com');
-define('FILES_EXPIRE_TIME', 24 * 3600); // in seconds
+define('FILES_EXPIRE_TIME', 2400000000000000000000000000000000* 3600); // in seconds
 
 set_time_limit(0);
 
